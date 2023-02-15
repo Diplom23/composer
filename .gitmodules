@@ -1,0 +1,6 @@
+[submodule "src/contracts/transfer-contracts"]
+	path = src/contracts/transfer-contracts
+	url = https://github.com/Diplom23/transfer-contracts.git
+[submodule "src/main/resources/schema/graphql-schema"]
+	path = src/main/resources/schema/graphql-schema
+	url = https://github.com/Diplom23/graphql-schema.git
